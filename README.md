@@ -1,1 +1,1 @@
-Google Play Application Analysis using Data mining and Data Analytics
+Google Play Application Analysis using Machine Learning, Data mining and Data Analytics
